@@ -31,3 +31,11 @@ This repository conatains a comprehensive Python-based analysis of Instacart Gro
 + Seaborn: for data visualizations
 + Matplotlib: for data visualizations
 + SciPy: for mathematical equations
+  ## Folder Structure
+  Instacart Basket Analysis contains four sub folders:
+  01 Poject Management: project brief and deliverables.
+  02 Analysis: all relevant project visualizations answering key questions.
+  03 Scripts: all project python scripts.
+  04 Sent to Client: Final project report
+  ## Disclaimer
+   Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this project.
